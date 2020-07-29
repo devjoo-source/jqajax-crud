@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @package jqcrud... Insert data into mySQL database
  * @ADMIN: ===Devjoo===

@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @package jqcrud... delete process
  * @sub-package: This file depended on "db.con.php" file

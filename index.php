@@ -6,7 +6,6 @@
     <title>jQuery--ajax--CRUD</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
-
 <body>
     <div class="container">
         <div class="alert alert-success mt-4" role="alert">
@@ -53,12 +52,8 @@
             </div>
         </div>
     </div>
-
-
-
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/myjs.js"></script>
 </body>
-
 </html>

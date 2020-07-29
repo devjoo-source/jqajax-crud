@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @package jqcrud... Retrive data for showing fronted
  * @ADMIN: ===Devjoo===
